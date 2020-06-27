@@ -5,7 +5,7 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.8);
+	background-color: #800080;
 }
 
 .navbar-brand{
@@ -59,14 +59,14 @@ li{
 	margin: 0;
 	width: 100%;
 	background-color: #e3e1c6;
-	border-bottom: 1px solid black;
+	border-bottom: 1px solid blue;
 	color: #000080;
 	display: block;
 }
 
 .menu-item:hover{
-	background-color: rgba(0,0,0,0.9);
-	color: rgba(0,0,0,0.4);
+	background-color: pink;
+	color: orange;
 }
 
 
@@ -79,8 +79,8 @@ li{
 	margin: 20px;
 	width: auto;
 	height: auto;
-	color: black;
-	background-color: rgba(0,0,0,0.2);
+	color: blue;
+	background-color: #efcca2;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
 }
